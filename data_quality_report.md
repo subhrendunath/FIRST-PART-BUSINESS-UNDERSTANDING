@@ -39,4 +39,8 @@ Engagement metrics from web and app behavior further strengthen the churn narrat
 
 Together, these six hypotheses form a coherent picture: churn is driven by low loyalty, low value, low engagement, and high friction. Each factor reinforces the others, creating a downward spiral that ultimately results in customer loss.
 
-PLEASE RUN  eds_customer_behavior.py for graphs, charts and tables.
+PLEASE RUN  eda_customer_behavior.py for graphs, charts and tables.
+
+
+
+
