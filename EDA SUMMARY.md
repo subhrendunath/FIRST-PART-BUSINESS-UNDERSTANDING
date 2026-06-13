@@ -1,4 +1,4 @@
-CUSTOMER BEHAVIOR
+# CUSTOMER BEHAVIOR
 Lower loyalty tiers show higher churn.
 
 High‑spend customers churn less; churners cluster in the low‑spend group.
