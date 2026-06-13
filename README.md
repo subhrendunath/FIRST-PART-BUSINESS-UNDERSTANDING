@@ -13,7 +13,7 @@ eda_customer_behavior.py
 READABLE FILES:
 README.md
 business_memo.md
-EDA SUMMARY.md
+data_quality_report.md
 
 
 END 
